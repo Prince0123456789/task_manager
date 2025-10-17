@@ -19,6 +19,10 @@
 4.  python manage.py createsuperuser
 5.  python manage.py runserver
 
+## For admin panel
+http://localhost:8000/admin
+## For Swagger View
+http://localhost:8000/swagger
 
 ## Example requests
 - Create a task (authenticated)
